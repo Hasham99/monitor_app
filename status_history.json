@@ -1,0 +1,20 @@
+{
+    "Production API": {
+        "status": "Online",
+        "last_success": "2026-02-04 16:30:49",
+        "last_offline": "Never",
+        "last_check": "2026-02-04 16:30:49"
+    },
+    "Staging Server": {
+        "status": "Offline",
+        "last_success": "2026-02-04 16:29:49",
+        "last_offline": "2026-02-04 16:30:49",
+        "last_check": "2026-02-04 16:30:49"
+    },
+    "Head Office": {
+        "status": "Offline",
+        "last_success": "2026-02-04 16:29:49",
+        "last_offline": "2026-02-04 16:30:49",
+        "last_check": "2026-02-04 16:30:49"
+    }
+}
